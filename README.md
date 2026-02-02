@@ -5,7 +5,7 @@ This repository contains the Python code used to generate a visual “score for 
 The visualization is intended as a listening map rather than performance notation, emphasizing bass weight, rhythmic pressure, texture, dynamics, and structural drops.
 
 ## Files
-- `visualization.py` – main script that generates the visual score
+- `visual_interpretation.py` – main script that generates the visual score
 - `visual_intepretation_leif-wut.png` – final exported image
 
 ## Requirements
