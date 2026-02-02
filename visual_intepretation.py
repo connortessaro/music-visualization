@@ -227,9 +227,8 @@ fig.text(
     va="top",
 )
 
-
 plt.tight_layout()
-plt.savefig("score-for-listening_le1f-wut.png", bbox_inches="tight")
+plt.savefig("visual_intepretation_leif-wut.png", bbox_inches="tight")
 plt.show()
 
-print("Saved: score-for-listening_le1f-wut.png")
+print("Saved: visual_intepretation_leif-wut.png")
